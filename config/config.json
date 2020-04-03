@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "passport_demo",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+
+// development - database -como se fossem 3 databases: uma pra eu fazer o code, outra pra testar, outra pro usuario ver, qdo ta pronto.
+// test
+// Usually the databases have different usernames with different permissions - what one can do in each database.
+// seed and schema - passa a copia da minha database com schema.sql - qdo developer termina a feature, passa pro tester. 

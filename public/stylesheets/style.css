@@ -1,0 +1,45 @@
+form.signup,
+form.login {
+  margin-top: 50px;
+}
+/* .login_container{
+  width: 450px;
+  height: 450px;
+  background-color: lightgrey;
+  border: solid 0.5px lightslategray;
+  border-radius: 2%;
+}
+
+.img{
+  margin-top: 100px;
+  width: 500px;
+  height: 450px;
+}
+
+.signup_container{
+  width: 600px;
+  height: 600px;
+  background-color: bisque;
+  border: solid 0.5px  lightslategray;
+  border-radius: 2%;
+}
+
+.loginForm{
+  margin-top: 80px;
+  position: relative;
+  left: -75px;
+}
+
+.loginForm2{
+  margin-top: 50px;
+  position: relative;
+  left: -75px;
+}
+
+form.login,{
+  width: 300px;
+}
+
+form.signup{
+  width: 400px;
+}  */
