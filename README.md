@@ -81,5 +81,5 @@ Instructions of how we could add changes in this project:
 We could create a password generator for this user. There would be a prompt and options to choose from, such as : capital letters, lower case letters, number of characters that could be chosen and type of characters, like numbers and letters. 
 Another change could be in the public folder inside stylesheets/style.css. We could add a frame and background for the forms. The buttons could also be styled  by Bootstrap or Materialize, for example. That would make it mobile friendly.
 
-
+ https://docs.google.com/document/d/1ioAeoDnsNKjpL9VBGcCNXI2OfoGDxBcz9ZqH_erY-ag/edit
 
